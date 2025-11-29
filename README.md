@@ -12,19 +12,12 @@ I'm a passionate Frontend Developer who loves building clean, responsive, and us
 
 ---
 
-## ✨ Animated Header (professional touch)
 
-Below is the recommended animated GIF header — the **most reliable** option on GitHub.
 
-### ✅ Animated GIF Header (Recommended)
 
-Upload your `header-anim.gif` file to the repository root, then display it using:
-
-```md
 ![Animated Header](header-anim.gif)
-```
 
-This GIF will animate correctly on GitHub (unlike SVG animations, which GitHub sanitizes and disables inside README files).
+
 
 ---
 
