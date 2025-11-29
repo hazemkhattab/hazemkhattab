@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Hazem Khattab
+![Animated Header](./header-glass.gif)
 
-### Frontend Developer | React.js | TypeScript | Next.js
 
-<!-- Banner: upload the banner image to the repo root with the filename below -->
+
+---
 
 ![Banner](linkedIn_panner.png)
 
@@ -15,11 +15,7 @@ I'm a passionate Frontend Developer who loves building clean, responsive, and us
 
 
 
-![Animated Header](./header-glass.gif)
 
-
-
----
 
 ## 🚀 Technologies & Tools
 
