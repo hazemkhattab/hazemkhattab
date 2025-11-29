@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Hazem Khattab  
+### Frontend Developer | React.js | TypeScript | Next.js
 
-<!--
-**hazemkhattab/hazemkhattab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer who loves building clean, responsive, and user-friendly web applications.  
+I focus on writing clean code, performance optimization, and delivering great user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js  
+- **State Management:** Redux Toolkit, Context API  
+- **UI Frameworks:** TailwindCSS, Material UI, Bootstrap, Sass  
+- **Tools:** Git, GitHub, Postman  
+- **Other:** JWT Authentication, APIs, Responsive Design
+
+---
+
+## 📌 Featured Projects
+
+
+### 🔹 Smart Trash – Graduation Project  
+Dashboard + Real-time monitoring system for smart waste management.  
+Includes charts, alerts, sensors integration, and admin UI.
+
+🔗 **Live Demo:** https://smart-trash-deployment.vercel.app/
+
+---
+
+## 📫 Contact Me  
+- **Email:** hazemkhattab222@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/hazem-ahmed-khattab1/  
+- **GitHub:** https://github.com/hazemkhattab
+
+---
+
+⭐ Feel free to check out my projects or contact me for collaboration!
