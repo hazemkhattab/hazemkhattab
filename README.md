@@ -39,7 +39,7 @@ Dashboard + Real-time monitoring system for smart waste management. Includes cha
 
 ## 📫 Contact Me
 
-* **Email:** [hazemkhattab222@gmail.com](mailto:hazemkhattab1219@gmail.com)
+* **Email:** [hazemkhattab1219@gmail.com](mailto:hazemkhattab1219@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/hazem-ahmed-khattab1/](https://www.linkedin.com/in/hazem-ahmed-khattab1/)
 
 
