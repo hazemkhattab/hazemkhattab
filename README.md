@@ -15,7 +15,7 @@ I'm a passionate Frontend Developer who loves building clean, responsive, and us
 
 
 
-![Animated Header](header-anim.gif)
+![Animated Header](./header-anim.gif)
 
 
 
