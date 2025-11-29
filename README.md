@@ -4,7 +4,7 @@
 
 <!-- Banner: upload the banner image to the repo root with the filename below -->
 
-![Banner](linkedIn panner.png)
+![Banner](linkedIn_panner.png)
 
 ---
 
